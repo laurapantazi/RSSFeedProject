@@ -1,3 +1,5 @@
 $ cat .gitattributes
 *.rb linguist-language=Java
 *.rb linguist-vendored=Java
+BootstrapFormHelpersCountries/* linguist-vendored=true
+Bootstrap/* linguist-vendored=true
